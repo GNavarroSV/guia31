@@ -1,0 +1,23 @@
+{
+	"pais": {
+		"moneda": "Dolar $",
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Santa Tecla",
+				"habitantes": "1,859,640",
+				"altura": "30 MSNM",
+				"area": "1653 km²",
+				"_id": "2",
+				"_nombre": "La Libertad"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

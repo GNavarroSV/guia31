@@ -1,0 +1,22 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"_id": "1",
+				"_fechaingreso": "1/11/2012"
+			},
+			{
+				"nombre": "Gerardo",
+				"apellido": "Navarro",
+				"direccion": "Calle de Los Andes, 45",
+				"telefono": "71478444",
+				"email": "gerardo.navarro2001@hotmail.com",
+				"_id": "2",
+				"_fechaingreso": "29/08/2022"
+			}
+		]
+	}
+}

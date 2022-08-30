@@ -1,0 +1,6 @@
+fichero {background-color:blue;}
+ficha {background-color:red; display:block;} 
+nombre {color:white; display:inline;} apellido {color:yellow; display:inline;}
+direccion {color:greenyellow;font-size:1cm; display:inline;}
+email {color:white;font-size:2cm; display:inline;} 
+telefono {color:white;font-size:cm; display:inline;}

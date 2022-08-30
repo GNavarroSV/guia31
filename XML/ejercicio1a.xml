@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="CSS/ejercicio1a.css" ?>
+<!-- ejercicio1a.xml NG20002-->
+
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+<ficha id="2" fechaingreso="29/08/2022">
+<nombre>Gerardo</nombre>
+<apellido>Navarro</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+<telefono>71478444</telefono>
+<email>gerardo.navarro2001@hotmail.com</email>
+</ficha>
+</fichero>
